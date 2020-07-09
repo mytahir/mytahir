@@ -1,4 +1,7 @@
-### Hi there 👋
+# Mustapha Yusuf
+
+❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
+
 
 <!--
 **mytahir/mytahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
