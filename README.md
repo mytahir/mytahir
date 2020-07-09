@@ -1,4 +1,5 @@
 # Mustapha Yusuf
+I am a Tech Student, I love learning Technologies from other people. I always practice @microsoft technologies.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
 
