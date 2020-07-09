@@ -1,5 +1,5 @@
 # Mustapha Yusuf
-![waves hello](https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif)
+![waves hello](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
 I am a Tech Student, I love learning Technologies from other people. I always practice @microsoft technologies.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
