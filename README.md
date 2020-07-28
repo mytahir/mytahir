@@ -1,7 +1,8 @@
 # Mustapha Yusuf
 ![waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm a Computer Science Student at Federal University Dutse, Nigeria, I love learning Technologies from other people.
+:wave: I'm a Computer Science Student at Federal University Dutse, Nigeria. 
+I love learning Technologies from other people.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
 
