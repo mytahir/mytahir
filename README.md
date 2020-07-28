@@ -8,7 +8,7 @@
 
 <!--
 **mytahir/mytahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [FUDry](https://github.com/mytahir/FUDry)
@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ❓ Got a question for me? Just [here](https://github.com/mytahir/mytahir/issues/new).
 - 📫 How to reach me: [Twitter](https://twitter.com/mytahir/) or [LinkedIn](https://www.linkedin.com/mwlite/in/mustapha-yusuf-233b5975).
 - 😄 Pronouns: He/Him
-
--->
 
 ![mytahir's github stats](https://github-readme-stats.vercel.app/api?username=mytahir&show_icons=true&theme=radical)
 <a href="https://github.com/mytahir/github-readme-stats">
