@@ -1,7 +1,7 @@
 # Mustapha Yusuf
 ![waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm a Computer Science Student at Federal University Dutse, Nigeria, I love learning Technologies from other people. I always practice @microsoft technologies.
+:wave: I'm a Computer Science Student at Federal University Dutse, Nigeria, I love learning Technologies from other people.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
 
@@ -9,8 +9,6 @@
 <!--
 **mytahir/mytahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [FUDry](https://github.com/mytahir/FUDry)
 - 🌱 I’m currently learning Azure Cloud & Xamarin Forms
 - 👯 I’m looking to collaborate on [FUDry](https://github.com/mytahir/FUDry)
