@@ -14,7 +14,7 @@ I love learning Technologies from other people.
 - 🌱 I’m currently learning Azure & Xamarin Forms
 - 👯 I’m looking to collaborate on [FUDry](https://github.com/mytahir/FUDry)
 - 💬 Ask me about anything [here](https://github.com/mytahir/mytahir/issues/new).
-- 📫 How to reach me: [Twitter](https://twitter.com/mytahir/) or [LinkedIn](https://www.linkedin.com/mwlite/in/mustapha-yusuf-233b5975).
+- 📫 How to reach me: [Twitter](https://twitter.com/m_y_tahir/) or [LinkedIn](https://www.linkedin.com/mwlite/in/mustapha-yusuf-233b5975).
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:**  
