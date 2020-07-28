@@ -1,7 +1,7 @@
 # Mustapha Yusuf
 ![waves hello](https://media.giphy.com/media/euAnOkLGWtdHG/giphy.gif)
 
-:wave: I'm a Tech Student, I love learning Technologies from other people. I always practice @microsoft technologies.
+:wave: I'm a Computer Science Student at Federal University Dutse, Nigeria, I love learning Technologies from other people. I always practice @microsoft technologies.
 
 ❓ Got a question for me? Just [file an issue in my personal repo](https://github.com/mytahir/mytahir/issues/new).
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-![mytahir's github stats](https://github-readme-stats.vercel.app/api?username=mytahir&show_icons=true&theme=dark)
+![mytahir's github stats](https://github-readme-stats.vercel.app/api?username=mytahir&show_icons=true&theme=radical)
 <a href="https://github.com/mytahir/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mytahir&show_icons=true&include_all_commits=true&theme=radical" alt="mytahir's github stats" />
 </a>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/mytahir/github-readme-stats">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mytahir&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mytahir&repo=FUDry&theme=radical" />
 </a>    
 <a href="https://github.com/mytahir/mytahir.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
