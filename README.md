@@ -28,16 +28,4 @@ Wpf
 <a href="https://github.com/mytahir/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mytahir&show_icons=true&include_all_commits=true&theme=radical" alt="mytahir's github stats" />
 </a>
-<a href="https://github.com/mytahir/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mytahir&layout=compact&theme=radical" />
-</a>
 
-<a href="https://github.com/mytahir/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mytahir&repo=FUDry&theme=radical" />
-</a>    
-<a href="https://github.com/mytahir/mytahir.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mytahir&repo=mytahir.github.io&theme=radical" />
-</a>
