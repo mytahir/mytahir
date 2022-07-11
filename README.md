@@ -12,7 +12,7 @@ I love learning Technologies from other people.
 -->
 - 🔭 I’m currently working on [FresiaApp](https://github.com/mytahir/fresiaapp)
 - 🌱 I’m currently learning Azure & Xamarin Forms
-- 👯 I’m looking to collaborate on [FresiaApp](https://github.com/mytahir/fresiapp)
+- 👯 I’m looking to collaborate on [FresiaApp](https://github.com/mytahir/fresiaapp)
 - 💬 Ask me about anything [here](https://github.com/mytahir/mytahir/issues/new).
 - 📫 How to reach me: [Twitter](https://twitter.com/m_y_tahir/) or [LinkedIn](https://www.linkedin.com/mwlite/in/mustapha-yusuf-233b5975).
 - 😄 Pronouns: He/Him
